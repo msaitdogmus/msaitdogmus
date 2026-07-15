@@ -7,8 +7,13 @@ I build production-ready applications using **Python, C#, ASP.NET Core, .NET MAU
 ## Featured Projects
 
 - **Eye Tracking + Emotion Analysis** — Real-time gaze tracking, off-screen detection and emotion analysis with OpenCV, MediaPipe and ONNX.
-- **Tam Vakti** — Android productivity app published on Google Play.
-- **DryCar Care** — Live appointment and business management platform.
+
+- **Tam Vakti** — Android productivity app published on Google Play.  
+  🔗 https://play.google.com/store/apps/details?id=com.msds.tamvakti
+
+- **DryCar Care** — Live appointment and business management platform.  
+  🔗 https://drycarkirsehir.com.tr/
+
 - **Hand Mouse** — Computer vision-based virtual mouse using hand tracking.
 
 ## AI & Core Stack
