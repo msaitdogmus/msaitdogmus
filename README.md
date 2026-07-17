@@ -1,4 +1,4 @@
-# Hi, I'm Muhammet Sait Doğmuş 👋
+# Hello, I'm Muhammet Sait Doğmuş 
 
 Computer Engineer focused on **AI, computer vision, LLMs, RAG, backend development and automation**.
 
