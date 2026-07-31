@@ -6,6 +6,10 @@ I build production-ready applications using **Python, C#, ASP.NET Core, .NET MAU
 
 ## Featured Projects
 
+- **Fırsat Radarı** — Live technology deal tracking platform for seven stores,
+  with verified price evidence, Telegram notifications and a Telegram Mini App.  
+  🔗 [Live website](https://firsatinradari.com.tr) · [Project overview](https://github.com/msaitdogmus/Firsat-Radari)
+
 - **Eye Tracking + Emotion Analysis** — Real-time gaze tracking, off-screen detection and emotion analysis with OpenCV, MediaPipe and ONNX.
 
 - **Tam Vakti** — Android productivity app published on Google Play.  
